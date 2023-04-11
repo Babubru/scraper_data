@@ -1,0 +1,16 @@
+{
+  "name": "projeto_hsad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "amazon": "cd controller && node amazonController"
+  },
+  "author": "brunabl",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.8.1",
+    "puppeteer": "^19.8.2"
+  }
+}
